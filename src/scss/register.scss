@@ -1,0 +1,96 @@
+.container-fluid{
+    padding: 0;
+}
+header{
+    padding: 20px 0;
+    img{
+        width: 220px;
+        height: 52px
+    }
+}
+nav{
+    background: url(../img/banner1.png) center center no-repeat;
+   
+    height: 600px;
+    .mask{
+        width: 790px;
+        height: 100%;
+        float: left;
+        a{
+            width: 700px;
+            height: 440px;
+            display: block;
+            margin-top: 80px;
+            margin-left: 56px;
+            overflow: hidden;
+        }
+    }
+    .form_1{
+        
+        h3{
+            font-size: 15px;
+            height: 42px;
+            padding:7px 40px;
+        }
+        width: 400px;
+        background: #ffeceb;
+        float: left;
+        margin-top: 80px;
+        padding-top: 10px;
+        opacity: 0.9;
+        .zc{
+            width: 314px;
+            margin: 0 auto;
+            .form-control{
+                background: #ffeceb;
+                opacity: 0.9;
+                border-radius: 2px;
+                height: 42px;
+            }
+            p{
+                margin-bottom: 15px;
+            }
+            p:nth-of-type(2){
+                overflow: hidden;
+                a{
+                    width: 110px;
+                    height: 42px;
+                    background: #ff5777;
+                    color: #fff;
+                    border-radius: 2px;
+                    float: left;
+                    text-align: center;
+                    line-height: 42px;
+                }
+                input{
+                    float: left;
+                    width: 180px;
+                    margin-left: 24px;
+                }
+            }
+            .p_1{
+                input{
+                    background: #ff5777;
+                }
+            }
+            .checkbox{
+                
+                padding-top:0;
+                padding-bottom: 15px;
+            }
+            #font1{
+                font-size: 12px;
+                line-height: 22px;
+                a{
+                    text-decoration: underline;
+                }
+            }
+            p:last-child{
+                text-align: right;
+                font-size: 12px;
+               
+            }
+             
+        }
+    }
+}

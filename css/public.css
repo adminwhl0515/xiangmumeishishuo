@@ -1,0 +1,12 @@
+body,ul,ol,dl,dd,p,h1,h2,h3,h4,h5,h6,input,fieldset,legend,td,th,form,textarea,header,section,article,aside,figure,footer,nav,li{margin:0;padding:0}
+li{list-style:none}
+img{border:none;display:block}
+a,input,area{outline:none}
+h1,h2,h3,h4,h5,h6,b,strong{font-weight:normal}
+em,i{font-style:normal}
+table{border-collapse:collapse}
+a{text-decoration:none;color:#000;}
+fieldset{border:none}
+.top,section>article,.box1,.box3{width:1140px;margin: 0 auto;}
+a:hover{text-decoration: none;}
+/*input{border: none;}*/
